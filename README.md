@@ -1,6 +1,6 @@
-# Cybether
+# CISODash
 
-A modern, open-source Cybersecurity Governance, Risk, and Compliance (GRC) dashboard.
+A Cybersecurity Governance, Risk, and Compliance (GRC) dashboard.
 
 ## 🚀 Quick Start
 
